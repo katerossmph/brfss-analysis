@@ -1,0 +1,20 @@
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# R packages
+.Rproj.user/
+.Renv/
+
+# renv cache
+renv/library/
+renv/cache/
+
+# Raw data (never upload)
+data_raw/
+
+# Optional:
+# data_clean/
+
